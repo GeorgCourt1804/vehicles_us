@@ -27,6 +27,8 @@ choosing to display a histogram, a scatter plot, or both simultaneously.
 ```
 project/
 │
+├── notebooks/
+│   └── EDA.ipynb        # Exploratory Data Analysis
 ├── app.py               # Main application file
 ├── vehicles_us.csv      # Dataset with car advertisement data
 └── README.md            # Project documentation
