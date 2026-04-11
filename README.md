@@ -31,6 +31,7 @@ project/
 │   └── EDA.ipynb        # Exploratory Data Analysis
 ├── app.py               # Main application file
 ├── vehicles_us.csv      # Dataset with car advertisement data
+├── requirements.txt     # Libraries needed for the project 
 └── README.md            # Project documentation
 ```
 
